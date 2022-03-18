@@ -7,6 +7,12 @@ Aplicação desenvolvida com Reactjs + spring,
 
 ## O QUE É ?
 DSMovie é um projeto de portifólio que mostras umas abordagens interessantes de técnicas de desenvolvimento tando no backend com spring, quanto no frontend com Reactjs.
+### Modelo Conceitual
+![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-dominio.png)
+
+
+### Padrão de camada adotado
+![Camada](https://github.com/devsuperior/bds-assets/raw/main/sds/padrao-camadas.png)
 
 ## Link do projeto
 O prejeto está publicado na nuvem do heroku e netlify. 
